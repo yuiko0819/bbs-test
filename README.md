@@ -1,0 +1,2 @@
+# bbs-test
+anime forum
